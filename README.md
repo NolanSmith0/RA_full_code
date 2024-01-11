@@ -15,3 +15,5 @@ There are three files in this repo:
   
 - ```FreeYourHandv2.1.2.ipynb``` : This is my work for automatically downloading the news in a news archive platform called Proquest. I need to taught other group mebers to use it so markdowns in it are Chinese. This code does a very simple job(while there is more pages, click choose and next page, if selected 5 pages, start downloading.) Below is a picture of website Proquest:
 ![Proquest web page](https://github.com/NolanSmith0/RA_full_code/blob/main/proquest.png)
+
+**Note** : Because of Non-Disclosure Agreement, I cann't provide a sample dataset. But you can check a result history in the noteboook.
