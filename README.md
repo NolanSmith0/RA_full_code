@@ -1,5 +1,5 @@
 # RA_full_code
-This Repo is used as supplementary material for Jiahe Wang's MFE and MQF application
+This Repo is used as supplementary material for Jiahe Wang's job application
 ---
 ## Intro
 There are three files in this repo:
